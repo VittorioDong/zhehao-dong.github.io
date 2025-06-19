@@ -55,7 +55,7 @@ education:
   - area: Master of Mechanical Engineering (LLM for Science)
     institution: Peking University
     date_start: 2024-09-01
-    date_end: 2027-06-31
+    date_end: 2027-06-30
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -64,7 +64,7 @@ education:
   - area: Bachelor of Software Engineering & Mechanics
     institution: Sichuan University
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
